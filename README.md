@@ -1,4 +1,4 @@
-# ATM Banking System - Secure Bank
+# ATM Management System - Secure Bank
 
 ## Overview
 
